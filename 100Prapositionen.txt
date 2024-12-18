@@ -1,0 +1,114 @@
+out of/from	aus + Dative
+at/near/by	bei + Dative
+with	mit + Dative
+after/to (countries/cities)/according to (when following the noun)	nach + Dative
+since/for (time)	seit + Dative
+from/of/by (authorship)	von + Dative
+to/at (people, some places)	zu + Dative
+opposite/across from	gegenüber + Dative
+except (for)	außer + Dative
+starting from (time/location)	ab + Dative
+through	durch + Accusative
+for	für + Accusative
+against	gegen + Accusative
+without	ohne + Accusative
+around (spatial), at (time)	um + Accusative
+until (time)	bis + Accusative
+instead of	anstatt/statt + Genitive
+outside (of)	außerhalb + Genitive
+inside (of), within	innerhalb + Genitive
+despite	trotz + Genitive
+during	während + Genitive
+because of	wegen + Genitive
+on this side of	diesseits + Genitive
+on the other side of	jenseits + Genitive
+under/among	unter + Dative/Accusative (two-way)
+in/into	in + Dative/Accusative (two-way)
+on/onto (horizontal surface), at	auf + Dative/Accusative (two-way)
+at/on (vertical surface/at a border)	an + Dative/Accusative (two-way)
+behind	hinter + Dative/Accusative (two-way)
+in front of/before	vor + Dative/Accusative (two-way)
+above/over/about	über + Dative/Accusative (two-way)
+next to/beside	neben + Dative/Accusative (two-way)
+between	zwischen + Dative/Accusative (two-way)
+across (movement), along (if placed after the noun)	entlang + Accusative (often), can also appear with Dative/Genitive
+according to (precedes noun)	laut + Genitive/Dative
+thanks to	dank + Genitive/Dative
+together with	samt/sammt + Dative
+in accordance with	gemäß + Dative
+according to/following (post-position)	zufolge + Dative
+contrary to	wider + Accusative
+down (colloquial, direction)	runter (from “herunter”) – generally adverbial, not truly a preposition on its own
+up (colloquial, direction)	rauf (from “hinauf”) – again, more adverb than preposition
+alongside	längs + Genitive
+by means of	mittels + Genitive
+despite/in spite of	ungeachtet + Genitive
+on account of	kraft + Genitive
+on behalf of	halber (postpositional) + Genitive
+underneath/beneath	unterhalb + Genitive
+above	oberhalb + Genitive
+beyond	über…hinaus (phrase), can be seen as über + Accusative with hinaus
+within sight of	in Sicht(weite) + Genitive (less common)
+in place of	an Stelle + Genitive
+according to/ in the opinion of	nach Ansicht + Genitive (fixed phrase)
+by virtue of	vermöge + Genitive (archaic)
+by reason of	aufgrund + Genitive
+as regards/concerning	hinsichtlich + Genitive
+with respect to	bezüglich + Genitive
+in spite of	ungeachtet + Genitive (repeat for emphasis)
+from…on	von…an + Dative (phrase)
+as far as	bis zu + Dative
+up to/until	bis an + Accusative (movement towards)
+under the condition of	unter der Bedingung + Genitive (phrase)
+behind (figurative)	hinter + Dative/Accusative (common two-way)
+from (a source)	von…her + Dative (phrase)
+towards (direction)	gen + Accusative (archaic/literary)
+off, away from	fern + Genitive/Dative (rare, literary)
+near (somewhat literary)	nahe + Dative/Genitive
+alongside (literary)	an…entlang + Dative
+on the occasion of	anlässlich + Genitive
+due to	infolge + Genitive
+in front of (location)	vor + Dative/Accusative
+past/by	vorbei an + Dative
+down from	herunter von + Dative
+away from	weg von + Dative
+out of (abstract reasons)	aus…heraus + Dative
+up to the point of	bis zu + Dative
+in direction of	in Richtung + Genitive
+beyond (figurative)	über…hinaus + Accusative
+despite all	ungeachtet aller + Genitive
+in the course of	im Laufe + Genitive
+according to (formal)	gemäß + Dative
+pending	pending + Dative/Accusative (English loan, rare)
+since (temporal, alternative)	seitens + Genitive (usually “on the part of”)
+from the side of	vonseiten + Genitive
+with regard to	bezüglich + Genitive (repeat for emphasis)
+by reason of	kraft + Genitive (repeat for emphasis)
+concerning	betreffs + Genitive
+with the help of	mithilfe + Genitive
+from under	unter…hervor + Dative
+along with	zusammen mit + Dative
+facing	angesichts + Genitive
+on the basis of	auf Grund + Genitive (written often as “aufgrund”)
+in front of it	davor (adverbial, not purely a preposition)
+behind it	dahinter (adverbial)
+above it	darüber (adverbial)
+below it	darunter (adverbial)
+before (time)	vor + Dative
+after (time)	nach + Dative (repeat for time emphasis)
+into	in + Accusative (movement)
+on (days/dates)	an + Dative (for days/dates)
+to (buildings/places)	zu + Dative (repeat for emphasis)
+around (spatial)	um…herum + Accusative
+across	quer durch + Accusative
+compared to	im Vergleich zu + Dative
+apart from	abgesehen von + Dative
+based on	basierend auf + Dative
+following	folgend + Dative (when used as a preposition)
+against it	dagegen (adverbial, not pure preposition)
+by/from (passive agent)	von + Dative (repeat in different context)
+in consideration of	in Anbetracht + Genitive
+pursuant to	gemäß + Dative (repeat in legal context)
+toward (feelings towards someone)	gegenüber + Dative (repeat for emphasis)
+up along	hinauf + Accusative (direction, more particle)
+down along	hinunter + Accusative (direction, more particle)
