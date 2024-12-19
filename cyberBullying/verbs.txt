@@ -1,0 +1,15 @@
+To bully	mobben, mobbte, hat gemobbt
+To insult	beleidigen, beleidigte, hat beleidigt
+To threaten	drohen, drohte, hat gedroht
+To exclude	ausschließen, schloss aus, hat ausgeschlossen
+To harass	belästigen, belästigte, hat belästigt
+To spread (rumors)	verbreiten, verbreitete, hat verbreitet
+To protect	schützen, schützte, hat geschützt
+To report	melden, meldete, hat gemeldet
+To apologize	sich entschuldigen, entschuldigte sich, hat sich entschuldigt
+To delete	löschen, löschte, hat gelöscht
+To block	blockieren, blockierte, hat blockiert
+To ignore	ignorieren, ignorierte, hat ignoriert
+To support	unterstützen, unterstützte, hat unterstützt
+To raise awareness	sensibilisieren, sensibilisierte, hat sensibilisiert
+To confront	konfrontieren, konfrontierte, hat konfrontiert

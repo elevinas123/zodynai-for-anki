@@ -1,0 +1,10 @@
+Anonymous	anonym
+Harmful	schädlich
+Supportive	unterstützend
+Offensive	beleidigend
+Threatening	bedrohlich
+Persistent	hartnäckig
+Public	öffentlich
+Private	privat
+Vulnerable	verletzlich
+Empowered	gestärkt
